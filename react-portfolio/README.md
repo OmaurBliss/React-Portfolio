@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://camo.githubusercontent.com/78f47a09877ba9d28da1887a93e5c3bc2efb309c1e910eb21135becd2998238a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This is a responsive portfolio and resume that uses React, Bootstrap, and CSS. This portfolio has links to Facebook, Instagram, LinkedIn, and Github. The user can download a PDF version of this portfolio site. 
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img width="1438" alt="Screen Shot 2021-05-25 at 7 25 54 AM" src="https://user-images.githubusercontent.com/74269245/119499901-cf5b2600-bd2c-11eb-9c53-960214d5daad.png">
+<img width="1437" alt="Screen Shot 2021-05-25 at 7 26 15 AM" src="https://user-images.githubusercontent.com/74269245/119499925-d5e99d80-bd2c-11eb-9b7a-eeb84eb16a98.png">
+<img width="1437" alt="Screen Shot 2021-05-25 at 7 26 39 AM" src="https://user-images.githubusercontent.com/74269245/119499940-daae5180-bd2c-11eb-8f0d-4c77f6633a69.png">
+<img width="1437" alt="Screen Shot 2021-05-25 at 7 37 09 AM" src="https://user-images.githubusercontent.com/74269245/119499963-e3068c80-bd2c-11eb-96d1-b305610aac57.png">
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+## Table of Contents
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [Installation](https://github.com/OmaurBliss/PWA-offline-budget-tracker#installation)
+- [Tech](https://github.com/OmaurBliss/PWA-offline-budget-tracker#tech)
+- [Credits](https://github.com/OmaurBliss/PWA-offline-budget-tracker#credits)
+- [License](https://github.com/OmaurBliss/PWA-offline-budget-tracker#license)
+- [Questions](https://github.com/OmaurBliss/PWA-offline-budget-tracker#questions)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Run the following command to install any necessary packages:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+npm install
+```
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tech
 
-### Code Splitting
+- Node JS packages
+- Bootstrap
+- React
+- CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Credits
 
-### Analyzing the Bundle Size
+- Trinh Nyugen
+- [Omaur Bliss](https://github.com/OmaurBliss)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
 
-### Making a Progressive Web App
+Distributed under the MIT license. Full license information: Lcensed under the MIT License; you may not use this file except in compliance with the License. You may obtain a copy of the License at: https://opensource.org/licenses/MIT Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Questions
 
-### Advanced Configuration
+Please feel free to reach out with any questions:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Omaur Bliss: [omaurbliss@gmail.com](
