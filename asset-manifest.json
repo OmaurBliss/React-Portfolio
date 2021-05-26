@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.8fa42407.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.5baf6170.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.5baf6170.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.0ad08de7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.0ad08de7.js.map",
+    "static/js/2.3b365f3b.chunk.js": "/React-Portfolio/static/js/2.3b365f3b.chunk.js",
+    "static/js/2.3b365f3b.chunk.js.map": "/React-Portfolio/static/js/2.3b365f3b.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.cc2d34501f79c8b649cdc184c0094b86.js": "/React-Portfolio/precache-manifest.cc2d34501f79c8b649cdc184c0094b86.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.8fa42407.chunk.css.map": "/React-Portfolio/static/css/main.8fa42407.chunk.css.map",
+    "static/js/2.3b365f3b.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.3b365f3b.chunk.js.LICENSE.txt",
+    "static/media/Biblioflix_team_Seinfeld.png": "/React-Portfolio/static/media/Biblioflix_team_Seinfeld.5bfa1554.png",
+    "static/media/Cup_of_Sugar_Le_Mustache.png": "/React-Portfolio/static/media/Cup_of_Sugar_Le_Mustache.4889be1f.png",
+    "static/media/Employee_Directory.png": "/React-Portfolio/static/media/Employee_Directory.42591cc1.png",
+    "static/media/Note_Taker_app.png": "/React-Portfolio/static/media/Note_Taker_app.5bd5ece3.png",
+    "static/media/OB_Web_portfolio.png": "/React-Portfolio/static/media/OB_Web_portfolio.3145ca74.png",
+    "static/media/App.css": "/React-Portfolio/static/media/OB_portfoliothree.3cbe4afa.jpg",
+    "static/media/OBavatar.png": "/React-Portfolio/static/media/OBavatar.112c646b.png",
+    "static/media/Offline_Budget_Tracker.png": "/React-Portfolio/static/media/Offline_Budget_Tracker.79294a13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad08de7.js",
+    "static/js/2.3b365f3b.chunk.js",
+    "static/css/main.8fa42407.chunk.css",
+    "static/js/main.5baf6170.chunk.js"
+  ]
+}
